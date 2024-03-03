@@ -1,1 +1,1 @@
-# Real_Time_Dashboard
+A real-time dashboard example using Node.js, Express, Socket.IO, and Plotly. This project demonstrates a real-time dashboard with a graphical analyzer. It utilizes Node.js for the server, Express for routing, Socket.IO for real-time communication, and Plotly for data visualization.
